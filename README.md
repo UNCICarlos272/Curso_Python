@@ -18,7 +18,6 @@ Un viaje a través de los fundamentos de Python, utilizando Google Colaboratory.
 * **Estructuras de Datos**: Un análisis detallado de listas, tuplas, diccionarios y conjuntos.
 * **Funciones y Módulos**: Cómo escribir código reutilizable y trabajar con librerías externas.
 * **Programación Orientada a Objetos (POO)**: Una introducción a clases y objetos.
-* **Fundamentos de Ciencia de Datos**: Primeros pasos con librerías populares como **Pandas** y **NumPy**.
 
 ---
 
