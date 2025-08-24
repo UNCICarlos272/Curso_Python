@@ -31,4 +31,8 @@ Un viaje a través de los fundamentos de Python, utilizando Google Colaboratory.
 4.  Sube tus cambios a la rama (`git push origin feature/NuevaCaracteristica`).
 5.  Abre un "Pull Request".
 
+### ** Links para los notebooks en colab
+
+1.- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/UNCICarlos272/Curso_Python/blob/main/01_Elementos_Basicos.ipynb)
+
 **¡Juntos, construyamos un mejor recurso de aprendizaje!**
