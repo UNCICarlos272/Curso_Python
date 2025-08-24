@@ -23,7 +23,9 @@ Un viaje a través de los fundamentos de Python, utilizando Google Colaboratory.
 
 ### **🔗 Recursos Adicionales**
 
+*  **Repositorio del Curso**: Visita [Repositorio del Curso]([https://uncicarlos272.github.io/Curso_Python/](https://github.com/UNCICarlos272/Curso_Python.git))
 * **Página del Curso**: Visita la [página web del curso](https://uncicarlos272.github.io/Curso_Python/) para una experiencia de lectura más fluida y un índice de contenido interactivo.
+
 
 ---
 
